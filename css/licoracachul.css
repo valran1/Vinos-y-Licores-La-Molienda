@@ -1,0 +1,62 @@
+@charset "utf-8";
+#barra {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    padding-left: 35px;
+    padding-top: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-bottom: 17px;
+    background-image: -webkit-linear-gradient(270deg,rgba(77,0,1,1.00) 0%,rgba(215,6,6,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(77,0,1,1.00) 0%,rgba(215,6,6,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(77,0,1,1.00) 0%,rgba(215,6,6,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(77,0,1,1.00) 0%,rgba(215,6,6,1.00) 100%);
+}
+body {
+    background-image: url(../images/FONDO.png);
+}
+
+#barra #botones {
+    margin-left: 75px;
+    margin-top: 50px;
+    color: #FFFFFF;
+}
+#pie {
+    background-color: #A00000;
+    font-family: "Cabin", sans-serif;
+    color: #FFFFFF;
+    padding-top: 21px;
+    padding-bottom: 22px;
+    padding-right: 122px;
+    margin-right: auto;
+    padding-left: 153px;
+}
+#pie .vinculos {
+    padding-right: 21px;
+}
+#pie #ppie {
+    padding-left: 360px;
+}
+.container .row #text {
+    margin-top: 62px;
+    font-family: "Cabin", sans-serif;
+}
+.row #text .tit {
+    font-family: "Abril Fatface", serif;
+    color: #D10909;
+}
+.row #text #precio {
+    background-color: #FFAA00;
+    padding-top: 2px;
+    padding-bottom: 6px;
+    padding-left: 16px;
+    color: #660001;
+}
+
+
+.container .row #imagen {
+    margin-top: 33px;
+    margin-bottom: 18px;
+    padding-left: 69px;
+}
